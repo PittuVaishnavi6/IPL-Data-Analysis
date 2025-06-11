@@ -65,5 +65,16 @@ python ipl_analysis.py
 - **Libraries**: Pandas, Matplotlib, Seaborn  
 - **IDE**: Visual Studio Code (VS Code)
 
+ ###  Project Folder Structure
+
+```
+IPL_Analysis/
+├── deliveries.csv             # Ball-by-ball data
+├── matches.csv                # Match-level data
+├── ipl_analysis.py            # Main Python analysis script
+├── README.md                  # Project documentation (optional but recommended)
+```
+
+
 
 
