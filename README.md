@@ -51,8 +51,19 @@ Examples:
 3. Install required libraries:
    ```bash
    pip install pandas matplotlib seaborn
-4. Run the analysis script:
-   
-   python ipl_analysis.py
+ 4. Run the analysis script:
+
+```bash
+python ipl_analysis.py
+```
+
+---
+
+###  Technologies Used
+
+- **Language**: Python  
+- **Libraries**: Pandas, Matplotlib, Seaborn  
+- **IDE**: Visual Studio Code (VS Code)
+
 
 
