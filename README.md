@@ -74,6 +74,16 @@ IPL_Analysis/
 ├── ipl_analysis.py            # Main Python analysis script
 ├── README.md                  # Project documentation (optional but recommended)
 ```
+### Dataset Source
+
+This project uses the **IPL Complete Dataset (2008–2020)** from Kaggle:
+
+🔗 [IPL Complete Dataset (2008–2020) – Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+
+It includes:
+
+- `matches.csv`: Match-level data
+- `deliveries.csv`: Ball-by-ball delivery data
 
 
 
